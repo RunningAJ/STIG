@@ -7,7 +7,7 @@
 function export-STIG2CSV{
 <#
 .SYNOPSIS
-Purpose of this script is to parse a STIG XCCDF.XML file and then convert it to an XML file.
+Purpose of this script is to parse a STIG XCCDF.XML file and then convert it to a CSV file.
    _____________________     ___        ____________    __
   / ___/_  __/  _/ ____/    |__ \      / ____/ ___/ |  / /
   \__ \ / /  / // / __________/ /_____/ /    \__ \| | / / 

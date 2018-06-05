@@ -7,7 +7,7 @@
 function aggregate-scapresults{
 <#
 .SYNOPSIS
-Purpose of this script is to parse a SCAP scan and then aggregate the results into one CSV
+Purpose of this script is to parse a SCAP scan and then aggregate the results into several CSV reports
   __________________     _____ __________     _____    ________  __________________ 
  /   _____/\_   ___ \   /  _  \\______   \   /  _  \  /  _____/ /  _____/\______   \
  \_____  \ /    \  \/  /  /_\  \|     ___/  /  /_\  \/   \  ___/   \  ___ |       _/
